@@ -1,0 +1,10 @@
+data/*
+ses.vim
+data
+*.swp
+cmd/bdsicego/bdsicego
+*.out
+.debug
+*.ses
+*.html
+*.exe

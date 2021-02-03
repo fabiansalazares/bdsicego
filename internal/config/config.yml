@@ -1,0 +1,9 @@
+path: "/home/alibey/econdata/bdsice/data"
+dblocalpath: "/home/alibey/econdata/bdsice/data/db"
+updateurl: "http://serviciosede.mineco.gob.es/Indeco/BDSICE/Ultimasactualizaciones_new.aspx"
+bulletinurl: "http://serviciosede.mineco.gob.es/indeco/"
+downloadurl: "http://serviciosede.mineco.gob.es/Indeco/BDSICE/HomeBDSICE.aspx"
+useragent: "Mozilla/5.0 (Windows NT 10.0; rv:68.0) Gecko/20100101 Firefox/68.0"
+plotviewer: "feh"
+debug: true
+

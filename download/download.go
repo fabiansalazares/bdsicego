@@ -10,8 +10,8 @@ import (
 	"log"
 	"net/http"
 
-	"gibhub.com/fabiansalazares/bdsicego/series"
 	"github.com/fabiansalazares/bdsicego/database"
+	"github.com/fabiansalazares/bdsicego/series"
 
 	"net/http/httputil"
 
@@ -20,7 +20,7 @@ import (
 	"path"
 	"path/filepath"
 
-	"gibhub.com/fabiansalazares/bdsicego/decode"
+	"github.com/fabiansalazares/bdsicego/decode"
 
 	//	"bytes"
 	//	"encoding/json"
@@ -30,7 +30,7 @@ import (
 
 	"golang.org/x/net/html"
 
-	"gibhub.com/fabiansalazares/bdsicego/internal/config"
+	"github.com/fabiansalazares/bdsicego/internal/config"
 )
 
 // copies from response to destination providing a visual lead on how much remains to be downloaded

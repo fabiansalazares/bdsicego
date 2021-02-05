@@ -1,3 +1,6 @@
+# 06 02 2021
+* Written basic README
+
 
 # 28 01 2021
 0.0.37
